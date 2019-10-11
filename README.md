@@ -22,3 +22,4 @@ Jul 2016
 ## Plans for this Fork
 
 1) Introduce an auto button
+2) Introduce an LED display or screen
