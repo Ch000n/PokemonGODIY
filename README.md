@@ -22,3 +22,5 @@ Jul 2016
 ## Plans for this Fork
 
 1) Introduce an auto button
+
+3) Add multiple buttons
