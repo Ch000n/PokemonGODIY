@@ -17,3 +17,8 @@ Server is released under an GNU AGPL v3.0 license. See the LICENSE file for more
 
 Sabas
 Jul 2016
+
+
+## Plans for this Fork
+
+1) Introduce an auto button
